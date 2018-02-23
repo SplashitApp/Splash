@@ -1,2 +1,1 @@
 # SplashIT
-Android App
